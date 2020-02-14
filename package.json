@@ -70,7 +70,7 @@
     "tinymce": "^5.0.7"
   },
   "devDependencies": {
-    "eslint": "^3.17.1",
+    "eslint": "^4.18.2",
     "eslint-config-loopback": "^8.0.0"
   },
   "repository": {
